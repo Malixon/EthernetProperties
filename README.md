@@ -1,0 +1,2 @@
+# EthernetProperties
+EthernetProperties of PC
